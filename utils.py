@@ -57,7 +57,6 @@ def clip(img):
         img[0, c] = torch.clamp(img[0, c], -m / s, (1 - m) / s)
 
     return img
-
 def save_img(t, p):
     img = to_img(t)
     img = Image.fromarray((img * 255.).astype(np.uint8))
