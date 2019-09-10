@@ -50,6 +50,12 @@ I'm very glad about the end results. This was a slighter smaller project than us
 
 **P.S.:** I might add some new features to this project every now and then (whenever I have some spare time on my hands), as there are still some things that could be implemented: Guided Deep Dreams, etc.
 
+## References
+
+- [Original Google Deep-Dream repository](https://github.com/google/deepdream)
+- [Different PyTorch Deep-Dream implementation](https://github.com/eriklindernoren/PyTorch-Deep-Dream)
+- [Pictures from Pixabay](https://pixabay.com)
+
 ---
 
 ... MattMoony (September, 2019)
